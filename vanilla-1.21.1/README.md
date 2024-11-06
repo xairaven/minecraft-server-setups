@@ -43,6 +43,8 @@ touch .restart_flag
 
 ### 3. `spigot.yml`
 
+Details: [docs.papermc.io](https://docs.papermc.io/paper/reference/spigot-configuration)
+
 The entire file is important, but the following fields require your attention:
 
 ```yaml
@@ -54,6 +56,15 @@ restart-script: ./restart.sh
 ### 4. `server.properties`
 
 The entire file is important. Details: [docs.papermc.io](https://docs.papermc.io/paper/reference/server-properties)
+
+### 5. `bukkit.yml`
+
+Details: [docs.papermc.io](https://docs.papermc.io/paper/reference/bukkit-configuration)
+
+```yaml
+allow-end: true
+shutdown-message: Server maintenance in progress!
+```
 
 ---
 
