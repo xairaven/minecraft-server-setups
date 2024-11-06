@@ -72,9 +72,9 @@ readonly java_args=(
   "${mc_args[@]}" # And pass it these settings
 )
 
-# Creating backups
-# printf 'Creating backup. Please, wait.\n' >&2
-# ./BACKUP_CREATE.sh
+# Creating manual backup
+# printf 'Creating manual backup. Please, wait.\n' >&2
+# ./MANUAL_BACKUP.sh
 
 # Remove restart flag, if it exists,
 # so that we won't restart the server after first stop,

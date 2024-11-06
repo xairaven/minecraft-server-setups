@@ -31,7 +31,7 @@ readonly heap_size='2G'
 readonly restart_delay=10
 readonly restart_on_crash='yes'
 readonly server_jar='paper.jar'
-# ./BACKUP_CREATE.sh
+# ./MANUAL_BACKUP.sh
 ```
 
 ### 2. `restart.sh`
@@ -65,6 +65,10 @@ Details: [docs.papermc.io](https://docs.papermc.io/paper/reference/bukkit-config
 allow-end: true
 shutdown-message: Server maintenance in progress!
 ```
+
+### 6. `MANUAL_BACKUP.sh`
+
+The entire file is important, but it is optional. Related with `start.sh`.
 
 ---
 
