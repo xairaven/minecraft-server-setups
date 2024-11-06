@@ -70,6 +70,10 @@ shutdown-message: Server maintenance in progress!
 
 The entire file is important, but it is optional. Related with `start.sh`.
 
+### 7. `paper-global.yml`, `paper-world-defaults.yml`
+
+Nothing important.
+
 ---
 
 ## How to Use
