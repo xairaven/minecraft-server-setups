@@ -13,9 +13,23 @@ This folder contains configuration files, plugin lists, and scripts for setting 
 
 Below is a list of plugins included in this setup. Be sure to check for compatibility if you update the server version.
 
-1. **EssentialsX** - Provides essential commands and tools for players and admins.
-2. **LuckPerms** - An advanced permissions management system.
-3. **Vault** - A permissions, chat, and economy API.
+| **Title** | **Version** | **Description** |
+| --------- | ----------- | --------------- |
+| [Backuper](https://hangar.papermc.io/Collagen/Backuper) | 3.1.1 | *Automatic backup plugin with good customization* |
+| [Chunky](https://hangar.papermc.io/pop4959/Chunky) | 1.4.28 | *Pre-generates chunks, quickly and efficiently* |
+| [CoreProtect](https://hangar.papermc.io/CORE/CoreProtect) | 22.4 | *Fast, efficient, data logging and anti-griefing tool* |
+| [EssentialsX](https://essentialsx.net/downloads.html) | 2.20.1 | *Provides essential commands and tools for players and admins* |
+| [EssentialsXChat](https://essentialsx.net/downloads.html) | 2.20.1 | *Chat formatting, local chat* |
+| [EssentialsXSpawn](https://essentialsx.net/downloads.html) | 2.20.1 | *Spawnpoint control, per-player spawns* |
+| [LuckPerms](https://luckperms.net/download) | 5.4.145 | *A permissions plugin for Minecraft servers.* |
+| [Maintenance](https://hangar.papermc.io/kennytv/Maintenance) | 4.3.0 | *Maintenance plugin.* |
+| [MiniMOTD](https://hangar.papermc.io/jmp/MiniMOTD) | 2.1.3 | *Minecraft plugin to set the server list MOTD* |
+| [PlaceholderAPI](https://hangar.papermc.io/HelpChat/PlaceholderAPI) | 2.11.6 | *A resource that allows information from your favorite plugins be shown practically anywhere!* |
+| [SkinsRestorer](https://hangar.papermc.io/SRTeam/SkinsRestorer) | 15.0.2 | *Ability to restore/change skins on servers! (Offline and Online Mode)* |
+| [Sleep Most](https://www.spigotmc.org/resources/sleep-most-1-8-1-21-x-the-most-advanced-sleep-plugin-available-percentage-animations.60623/) | 5.5.1 | *Control the amount of percentage of sleeping players required to make it day* |
+| [Spark](https://spark.lucko.me) | 1.10.118 | *A performance profiler for Minecraft clients, servers, and proxies* |
+| [TAB](https://modrinth.com/plugin/tab-was-taken) | 5.0.1 | *Plugin for TAB.* |
+| [Vault](https://www.spigotmc.org/resources/vault.34315/) | 1.7.3 | *A permissions, chat, and economy API* |
 
 *You may add or remove plugins as desired, but make sure each plugin is compatible with the current Paper version.*
 
