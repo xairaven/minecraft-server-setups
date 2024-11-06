@@ -15,6 +15,7 @@ Below is a list of plugins included in this setup. Be sure to check for compatib
 
 | **Title** | **Version** | **Description** |
 | --------- | ----------- | --------------- |
+| [AuthMe ReReloaded](https://github.com/HaHaWTH/AuthMeReReloaded/releases/tag/b53) | 5.7.0 | *"A fork of the best authentication plugin"* |
 | [Backuper](https://hangar.papermc.io/Collagen/Backuper) | 3.1.1 | *Automatic backup plugin with good customization* |
 | [Chunky](https://hangar.papermc.io/pop4959/Chunky) | 1.4.28 | *Pre-generates chunks, quickly and efficiently* |
 | [CoreProtect](https://hangar.papermc.io/CORE/CoreProtect) | 22.4 | *Fast, efficient, data logging and anti-griefing tool* |
