@@ -22,7 +22,7 @@ Below is an overview of the current setups:
 
 1. Clone the repository to your local environment:
   ```sh
-  git clone https://github.com/yourusername/minecraft-server-configs.git
+  git clone https://github.com/yourusername/minecraft-server-setups.git
   ```
 2. Navigate to the folder for the server type/version you need.
 3. Copy the configuration files and plugin lists as needed to set up your server.
