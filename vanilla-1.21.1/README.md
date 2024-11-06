@@ -51,6 +51,10 @@ restart-on-crash: true
 restart-script: ./restart.sh
 ```
 
+### 4. `server.properties`
+
+The entire file is important. Details: [docs.papermc.io](https://docs.papermc.io/paper/reference/server-properties)
+
 ---
 
 ## How to Use
