@@ -41,6 +41,16 @@ readonly server_jar='paper.jar'
 touch .restart_flag
 ```
 
+### 3. `spigot.yml`
+
+The entire file is important, but the following fields require your attention:
+
+```yaml
+timeout-time: 60
+restart-on-crash: true
+restart-script: ./restart.sh
+```
+
 ---
 
 ## How to Use
