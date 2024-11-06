@@ -8,8 +8,8 @@ Each directory corresponds to a specific server version or modpack configuration
 
 Below is an overview of the current setups:
 
-- **Paper 1.21.1** <br>
-  Configuration files and plugins for the latest Paper 1.21.1 server setup.
+- [**Paper 1.21.1**](./vanilla-1.21.1/) <br>
+  Configuration files and plugins for the latest Vanilla Paper 1.21.1 server setup.
 
 <!---
 - Modpack FTB Revelations 1.12.2
