@@ -25,6 +25,8 @@
 | **Permission**                       | **Value** |
 |--------------------------------------|-----------|
 | minecraft.command.*                  | true      |
+| minecraft.command.scoreboard         | true      |
+| minecraft.command.function           | true      |
 | skinsrestorer.command.*              | true      |
 | authme.*                             | true      |
 | backuper.*                           | true      |
