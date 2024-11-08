@@ -67,6 +67,8 @@
 | essentials.banip               | true      |
 | essentials.getpos              | true      |
 | essentials.getpos.others       | true      |
+| essentials.kick                | true      |
+| essentials.kick.exempt         | true      |
 | essentials.whois.ip            | true      |
 | essentials.unban               | true      |
 | essentials.unbanip             | true      |
