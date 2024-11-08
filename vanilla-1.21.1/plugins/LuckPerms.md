@@ -3,7 +3,8 @@
 | Title   | Weight | Parent Group |
 |---------|--------|--------------|
 | owner   | 9999   | admins       |
-| admins  | 999    | default      |
+| admins  | 999    | staff        |
+| staff   | 99     | default      |
 | default | 1      | -            |
 
 ---
@@ -42,25 +43,35 @@
 | tab.*                                | true      |
 | vault.*                              | true      |
 | bukkit.command                       | true      |
-| essentials.ban                       | true      |
-| essentials.banip                     | true      |
 | essentials.gamemode                  | true      |
 | essentials.gamemode.all              | true      |
-| essentials.getpos                    | true      |
-| essentials.getpos.others             | true      |
 | essentials.sethome.multiple.admins   | true      |
 | essentials.sethome.multiple.default  | true      |
 | essentials.time.set                  | true      |
 | essentials.tp                        | true      |
 | essentials.tp.others                 | true      |
 | essentials.tphere                    | true      |
-| essentials.unban                     | true      |
-| essentials.unbanip                   | true      |
-| group.default                        | true      |
+| group.staff                          | true      |
 | meta.default.false                   | true      |
 | minecraft.command.time               | true      |
 | prefix.999.&c[Admin] &f              | true      |
 | weight.999                           | true      |
+
+**Staff:**
+
+| **Permission**                 | **Value** |
+|--------------------------------|-----------|
+| group.default                  | true      |
+| weight.99                      | true      |
+| essentials.ban                 | true      |
+| essentials.banip               | true      |
+| essentials.getpos              | true      |
+| essentials.getpos.others       | true      |
+| essentials.whois.ip            | true      |
+| essentials.unban               | true      |
+| essentials.unbanip             | true      |
+| meta.default.false             | true      |
+| prefix.99.&e[Staff] &f         | true      |
 
 **Default:**
 
