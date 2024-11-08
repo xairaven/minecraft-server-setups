@@ -373,7 +373,7 @@ settings:
         # Does AuthMe need to enforce a /login after a successful registration?
         forceLoginAfterRegister: false
     # Should we delay the join message and display it once the player has logged in?
-    delayJoinMessage: true
+    delayJoinMessage: false
     # The custom join message that will be sent after a successful login,
     # keep empty to use the original one.
     # Available variables:
@@ -384,9 +384,9 @@ settings:
     # Should we remove the leave messages of unlogged users?
     removeUnloggedLeaveMessage: true
     # Should we remove join messages altogether?
-    removeJoinMessage: true
+    removeJoinMessage: false
     # Should we remove leave messages altogether?
-    removeLeaveMessage: true
+    removeLeaveMessage: false
     # Do we need to add potion effect Blinding before login/register?
     applyBlindEffect: false
     # Do we need to prevent people to login with another case?
