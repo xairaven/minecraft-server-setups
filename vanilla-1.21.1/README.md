@@ -26,6 +26,7 @@ Below is a list of plugins included in this setup. Be sure to check for compatib
 | [Maintenance](https://hangar.papermc.io/kennytv/Maintenance) | 4.3.0 | *Maintenance plugin.* |
 | [MiniMOTD](https://hangar.papermc.io/jmp/MiniMOTD) | 2.1.3 | *Minecraft plugin to set the server list MOTD* |
 | [PlaceholderAPI](https://hangar.papermc.io/HelpChat/PlaceholderAPI) | 2.11.6 | *A resource that allows information from your favorite plugins be shown practically anywhere!* |
+| [SimpleWhitelist](https://modrinth.com/plugin/simplewhitelist) | 0.5.1 | *Simple whitelist system for your offline-mode server* |
 | [SkinsRestorer](https://hangar.papermc.io/SRTeam/SkinsRestorer) | 15.0.2 | *Ability to restore/change skins on servers! (Offline and Online Mode)* |
 | [Sleep Most](https://www.spigotmc.org/resources/sleep-most-1-8-1-21-x-the-most-advanced-sleep-plugin-available-percentage-animations.60623/) | 5.5.1 | *Control the amount of percentage of sleeping players required to make it day* |
 | [Spark](https://spark.lucko.me) | 1.10.118 | *A performance profiler for Minecraft clients, servers, and proxies* |

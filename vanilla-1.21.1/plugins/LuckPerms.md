@@ -72,6 +72,7 @@
 | essentials.whois.ip            | true      |
 | essentials.unban               | true      |
 | essentials.unbanip             | true      |
+| simplewhitelist.command        | true      |
 | meta.default.false             | true      |
 | prefix.99.&e[Staff] &f         | true      |
 
