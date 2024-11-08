@@ -538,8 +538,8 @@ allow-silent-join-quit: false
 # {ONLINE} - The number of players online.
 # {UNIQUE} - The number of unique players to join the server.
 # {UPTIME} - The amount of time the server has been online.
-custom-join-message: "none"
-custom-quit-message: "none"
+custom-join-message: "&8[+] &7Online: &2{USERNAME}&r"
+custom-quit-message: "&8[-] &7Offline: &4{USERNAME}&r"
 
 # You can set a custom join message for users who join with a new username here.
 # This message will only be used if a user has joined before and have since changed their username.
@@ -879,7 +879,7 @@ chat:
   # Users with essentials.chat.shout can override this by prefixing their message with an exclamation mark (!)
   # Users with essentials.chat.question can override this by prefixing their message with a question mark (?)
   # You can add command costs for shout/question by adding chat-shout and chat-question to the command costs section.
-  radius: 100
+  radius: 50
 
   # Chat formatting can be done in two ways, you can either define a standard format for all chat.
   # Or you can give a group specific chat format, to give some extra variation.
