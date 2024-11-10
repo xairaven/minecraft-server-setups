@@ -35,6 +35,9 @@ Below is a list of plugins included in this setup. Be sure to check for compatib
 
 *You may add or remove plugins as desired, but make sure each plugin is compatible with the current Paper version.*
 
+**Datapacks:**
+- [BlazeandCave's Advancements Pack](https://www.curseforge.com/minecraft/customization/blazeandcaves-advancements-pack)
+
 ---
 
 ## Editable Configuration Files
