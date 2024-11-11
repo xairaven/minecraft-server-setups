@@ -116,5 +116,6 @@
 | essentials.tpdeny              | true      |
 | meta.default.true              | true      |
 | minecraft.command              | false     |
+| minecraft.command.trigger      | true      |
 | sleepmost.notify               | false     |
 | weight.1                       | true      |
