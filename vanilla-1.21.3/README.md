@@ -1,11 +1,11 @@
-# Minecraft Server - Paper 1.21.1
+# Minecraft Server - Paper 1.21.3
 
-This folder contains configuration files, plugin lists, and scripts for setting up a **Minecraft Paper 1.21.1** server.
+This folder contains configuration files, plugin lists, and scripts for setting up a **Minecraft Paper 1.21.3** server.
 
 ### Server Information
 - **Type**: Vanilla
 - **Core**: Paper
-- **Version**: 1.21.1
+- **Version**: 1.21.3
 
 ---
 
@@ -22,9 +22,9 @@ Below is a list of plugins included in this setup. Be sure to check for compatib
 | [EssentialsX](https://essentialsx.net/downloads.html) | 2.20.1 | *Provides essential commands and tools for players and admins* |
 | [EssentialsXChat](https://essentialsx.net/downloads.html) | 2.20.1 | *Chat formatting, local chat* |
 | [EssentialsXSpawn](https://essentialsx.net/downloads.html) | 2.20.1 | *Spawnpoint control, per-player spawns* |
-| [LuckPerms](https://luckperms.net/download) | 5.4.145 | *A permissions plugin for Minecraft servers.* |
+| [LuckPerms](https://luckperms.net/download) | 5.4.146 | *A permissions plugin for Minecraft servers.* |
 | [Maintenance](https://hangar.papermc.io/kennytv/Maintenance) | 4.3.0 | *Maintenance plugin.* |
-| [MiniMOTD](https://hangar.papermc.io/jmp/MiniMOTD) | 2.1.3 | *Minecraft plugin to set the server list MOTD* |
+| [MiniMOTD](https://hangar.papermc.io/jmp/MiniMOTD) | 2.1.4 | *Minecraft plugin to set the server list MOTD* |
 | [PlaceholderAPI](https://hangar.papermc.io/HelpChat/PlaceholderAPI) | 2.11.6 | *A resource that allows information from your favorite plugins be shown practically anywhere!* |
 | [SimpleWhitelist](https://modrinth.com/plugin/simplewhitelist) | 0.5.1 | *Simple whitelist system for your offline-mode server* |
 | [SkinsRestorer](https://hangar.papermc.io/SRTeam/SkinsRestorer) | 15.0.2 | *Ability to restore/change skins on servers! (Offline and Online Mode)* |
