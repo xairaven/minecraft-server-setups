@@ -22,7 +22,7 @@ Below is a list of plugins included in this setup. Be sure to check for compatib
 | [EssentialsX](https://essentialsx.net/downloads.html) | 2.20.1 | *Provides essential commands and tools for players and admins* |
 | [EssentialsXChat](https://essentialsx.net/downloads.html) | 2.20.1 | *Chat formatting, local chat* |
 | [EssentialsXSpawn](https://essentialsx.net/downloads.html) | 2.20.1 | *Spawnpoint control, per-player spawns* |
-| [LuckPerms](https://luckperms.net/download) | 5.4.146 | *A permissions plugin for Minecraft servers.* |
+| [LuckPerms](https://luckperms.net/download) | 5.4.149 | *A permissions plugin for Minecraft servers.* |
 | [Maintenance](https://hangar.papermc.io/kennytv/Maintenance) | 4.3.0 | *Maintenance plugin.* |
 | [MiniMOTD](https://hangar.papermc.io/jmp/MiniMOTD) | 2.1.4 | *Minecraft plugin to set the server list MOTD* |
 | [PlaceholderAPI](https://hangar.papermc.io/HelpChat/PlaceholderAPI) | 2.11.6 | *A resource that allows information from your favorite plugins be shown practically anywhere!* |
