@@ -35,8 +35,12 @@ Below is a list of plugins included in this setup. Be sure to check for compatib
 
 *You may add or remove plugins as desired, but make sure each plugin is compatible with the current Paper version.*
 
-**Datapacks:**
-- [BlazeandCave's Advancements Pack](https://www.curseforge.com/minecraft/customization/blazeandcaves-advancements-pack)
+## Datapacks
+
+| **Title** | **Version** | **Description** |
+| --------- | ----------- | --------------- |
+| [BlazeandCave's Advancements Pack](https://www.curseforge.com/minecraft/customization/blazeandcaves-advancements-pack) | 1.17.3 | *Advancement Datapack.* |
+| [Vanilla Tweaks - Anti Enderman Grief](https://vanillatweaks.net/picker/datapacks/) | 1.1.10 | *Prevents endermen from picking up blocks.* |
 
 ---
 
