@@ -30,7 +30,7 @@ Below is a list of plugins included in this setup. Be sure to check for compatib
 | [SkinsRestorer](https://hangar.papermc.io/SRTeam/SkinsRestorer) | 15.0.2 | *Ability to restore/change skins on servers! (Offline and Online Mode)* |
 | [Sleep Most](https://www.spigotmc.org/resources/sleep-most-1-8-1-21-x-the-most-advanced-sleep-plugin-available-percentage-animations.60623/) | 5.5.1 | *Control the amount of percentage of sleeping players required to make it day* |
 | [Spark](https://spark.lucko.me) | 1.10.118 | *A performance profiler for Minecraft clients, servers, and proxies* |
-| [TAB](https://modrinth.com/plugin/tab-was-taken) | 5.0.1 | *Plugin for TAB.* |
+| [TAB](https://modrinth.com/plugin/tab-was-taken) | 5.0.3 | *Plugin for TAB.* |
 | [Vault](https://www.spigotmc.org/resources/vault.34315/) | 1.7.3 | *A permissions, chat, and economy API* |
 
 *You may add or remove plugins as desired, but make sure each plugin is compatible with the current Paper version.*
