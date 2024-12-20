@@ -27,7 +27,7 @@ Below is a list of plugins included in this setup. Be sure to check for compatib
 | [MiniMOTD](https://hangar.papermc.io/jmp/MiniMOTD) | 2.1.4 | *Minecraft plugin to set the server list MOTD* |
 | [PlaceholderAPI](https://hangar.papermc.io/HelpChat/PlaceholderAPI) | 2.11.6 | *A resource that allows information from your favorite plugins be shown practically anywhere!* |
 | [SimpleWhitelist](https://modrinth.com/plugin/simplewhitelist) | 0.5.1 | *Simple whitelist system for your offline-mode server* |
-| [SkinsRestorer](https://hangar.papermc.io/SRTeam/SkinsRestorer) | 15.5.0 | *Ability to restore/change skins on servers! (Offline and Online Mode)* |
+| [SkinsRestorer](https://hangar.papermc.io/SRTeam/SkinsRestorer) | 15.5.1 | *Ability to restore/change skins on servers! (Offline and Online Mode)* |
 | [Sleep Most](https://www.spigotmc.org/resources/sleep-most-1-8-1-21-x-the-most-advanced-sleep-plugin-available-percentage-animations.60623/) | 5.5.1 | *Control the amount of percentage of sleeping players required to make it day* |
 | [TAB](https://modrinth.com/plugin/tab-was-taken) | 5.0.3 | *Plugin for TAB.* |
 | [Vault](https://www.spigotmc.org/resources/vault.34315/) | 1.7.3 | *A permissions, chat, and economy API* |
