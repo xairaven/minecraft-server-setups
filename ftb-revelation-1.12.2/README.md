@@ -60,3 +60,9 @@ This folder contains configuration files, instructions, plugin lists, and script
 - [xNICEx](https://www.curseforge.com/minecraft/mc-mods/xnicex)
   
 </details>
+
+### Scripts
+
+Fixed files `00` and `02` according to mods removal.
+
+[*link*](./scripts/)
