@@ -11,10 +11,8 @@ Below is an overview of the current setups:
 - [**Paper 1.21.3**](./vanilla-1.21.3/) <br>
   Configuration files and plugins for the latest Vanilla Paper 1.21.3 server setup.
 
-<!---
-- Modpack FTB Revelations 1.12.2
+- [**FTB Revelation 1.12.2**](./ftb-revelation-1.12.2/) <br>
   Configuration and mod list for the FTB Revelations modpack on Minecraft 1.12.2.
-  -->
 
 - *Additional directories may be added as new servers are configured.*
 
