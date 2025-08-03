@@ -117,6 +117,11 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 - **Extreme Reactors**: Not edited
 - **FastWorkbench**: Not edited
 - **Flux Networks**: [Edited](./config/flux_networks.cfg)
+- **FoamFix**: Not edited
+- **Forestry**: Not edited
+- **Forge**: Not edited
+- **Forge Chunk Loader**: Not edited
+- **FTB Backups**: [Edited](./config/ftbbackups.cfg)
 
 ### Configs *(Plugins)*
 - **CatClearLag**: Not edited
