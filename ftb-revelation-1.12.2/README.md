@@ -149,6 +149,18 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 - **McJtyLib**: Not edited
 - **MicroBlocks**: Not edited
 - **Morpheus**: [Edited](./config/morpheus.cfg)
+- **Morph-o-Tool**: Not edited
+- **MrTJPCore**: Not edited
+- **MultiPart**: Not edited
+- **Natura**: Not edited
+- **NaturaModules**: Not edited
+- **Nature's Compass**: Not edited
+- **Not Enough Wands**: Not edited
+- **OpenBlocks**: Not edited
+- **OpenMods**: Not edited
+- **OpenModsLibCore**: Not edited
+- **Patchouli**: Not edited
+- **Placebo**: [Edited](./config/placebo.cfg)
   
 </details>
 
