@@ -70,15 +70,20 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 - [Start Script](./start.sh)
 
 ### Configs
-- **ActuallyAdditions:** Not edited
-- **AdvancedSolarPanels:** Not edited
-- **AdvancedSolarPanels Recipes:** Not edited
-- **AE2 Wireless Terminals:** Not edited
-- **Akashic Tome:** Not edited
-- **Apple Skin:** Not edited
-- **Applied Energistics 2:** Not edited
-- **Aqua Acrobatics:** [Edited](./config/aquaacrobatics.cfg)
-- **Aqua Acrobatics Core:** Not edited
-- **Aroma1997:** Not edited
-- **Astral Sorcery:** Not edited
+- **ActuallyAdditions**: Not edited
+- **AdvancedSolarPanels**: Not edited
+- **AdvancedSolarPanels Recipes**: Not edited
+- **AE2 Wireless Terminals**: Not edited
+- **Akashic Tome**: Not edited
+- **Apple Skin**: Not edited
+- **Applied Energistics 2**: Not edited
+- **Aqua Acrobatics**: [Edited](./config/aquaacrobatics.cfg)
+- **Aqua Acrobatics Core**: Not edited
+- **Aroma1997**: Not edited
+- **Astral Sorcery**: Not edited
 - **Bad Wither No Cookie Reloaded**: [Edited](./config/badwithernocookiereloaded.cfg)
+- **Baubles**: Not edited
+- **Better Builders Wands**: Not edited
+- **BiblioCraft**: Not edited
+- **BiomesOPlenty**: Not edited
+- **BiomesOPlenty Misc**: [Edited](./config/biomesoplenty/misc.cfg)
