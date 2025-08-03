@@ -71,7 +71,11 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 - [Server Properties](./server.properties)
 - [Start Script](./start.sh)
 
-### Configs *(Mods)*
+### Configs
+
+<details>
+<summary><i>For Mods</i></summary>
+  
 - **ActuallyAdditions**: Not edited
 - **AdvancedSolarPanels**: Not edited
 - **AdvancedSolarPanels Recipes**: Not edited
@@ -124,6 +128,12 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 - **FTB Backups**: [Edited](./config/ftbbackups.cfg)
 - **FTB Guides**: Not edited
 - **FTB Lib**: [Edited](./config/ftblib.cfg)
+  
+</details>
 
-### Configs *(Plugins)*
+<details>
+<summary><i>For Plugins</i></summary>
+  
 - **CatClearLag**: Not edited
+  
+</details>
