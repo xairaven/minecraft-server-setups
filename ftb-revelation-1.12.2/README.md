@@ -69,7 +69,7 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 - [Server Properties](./server.properties)
 - [Start Script](./start.sh)
 
-### Configs
+### Configs *(Mods)*
 - **ActuallyAdditions**: Not edited
 - **AdvancedSolarPanels**: Not edited
 - **AdvancedSolarPanels Recipes**: Not edited
@@ -87,3 +87,12 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 - **BiblioCraft**: Not edited
 - **BiomesOPlenty**: Not edited
 - **BiomesOPlenty Misc**: [Edited](./config/biomesoplenty/misc.cfg)
+- **Blood Magic**: Not edited
+- **Bookshelf**: Not edited
+- **Botania**: Not edited
+- **Brandon3055** *(Draconic Evolution)*: Not edited
+- **BuildCraft**: Not edited
+- **Chest Transporter**: [Edited](./config/chesttransporter.cfg)
+
+### Configs *(Plugins)*
+- **CatClearLag**: Not edited
