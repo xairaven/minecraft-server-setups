@@ -134,6 +134,21 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 - **Guide-API**: Not edited
 - **Harvest Craft**: Not edited
 - **Industrial Craft 2**: [Edited](./config/IC2.ini)
+- **Immersive Cables**: Not edited
+- **Immersive Engineering**: [Edited](./config/immersiveengineering.cfg)
+- **Immersive Petroleum**: Not edited
+- **Industrial Foregoing**: Not edited
+- **Indistrial Wires**: Not edited
+- **Integration Foregoing**: Not edited
+- **Iron Backpacks**: Not edited
+- **Iron Chests**: Not edited
+- **JEI Bees**: Not edited
+- **JourneyMap**: Not edited
+- **Laser Drill Ores**: Not edited
+- **MagicBees**: Not edited
+- **McJtyLib**: Not edited
+- **MicroBlocks**: Not edited
+- **Morpheus**: [Edited](./config/morpheus.cfg)
   
 </details>
 
@@ -141,5 +156,6 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 <summary><i>For Plugins</i></summary>
   
 - **CatClearLag**: Not edited
+- **LuckPerms**: Not edited
   
 </details>
