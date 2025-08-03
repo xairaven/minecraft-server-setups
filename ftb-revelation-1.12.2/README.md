@@ -122,6 +122,8 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 - **Forge**: Not edited
 - **Forge Chunk Loader**: Not edited
 - **FTB Backups**: [Edited](./config/ftbbackups.cfg)
+- **FTB Guides**: Not edited
+- **FTB Lib**: [Edited](./config/ftblib.cfg)
 
 ### Configs *(Plugins)*
 - **CatClearLag**: Not edited
