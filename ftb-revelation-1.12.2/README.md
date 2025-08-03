@@ -79,7 +79,7 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
   
 - **ActuallyAdditions**: Not edited
 - **AdvancedSolarPanels**: Not edited
-- **AdvancedSolarPanels Recipes**: Not edited
+- **AdvancedSolarPanels Recipes**: [Edited](./config/advanced_solar_panels_MTRecipes.cfg)
 - **AE2 Wireless Terminals**: Not edited
 - **Akashic Tome**: Not edited
 - **Apple Skin**: Not edited
