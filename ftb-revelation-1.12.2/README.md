@@ -45,6 +45,8 @@ This folder contains configuration files, instructions, plugin lists, and script
 - [Blockcraftery](https://www.curseforge.com/minecraft/mc-mods/blockcraftery)
 - [CCTweaks](https://www.curseforge.com/minecraft/mc-mods/cctweaks)
 - [Computronics](.)
+- [Environmental Tech](https://www.curseforge.com/minecraft/mc-mods/environmental-tech)
+- [Environmental Lunar Tech](https://www.curseforge.com/minecraft/mc-mods/environmental-lunartech)
 - [Flat Colored Blocks](https://www.curseforge.com/minecraft/mc-mods/flat-colored-blocks-forge)
 - [LetsEncryptCraft](https://www.curseforge.com/minecraft/mc-mods/letsencryptcraft)
 - [Long Fall Boot](https://www.curseforge.com/minecraft/mc-mods/long-fall-boots)
@@ -104,6 +106,12 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 - **Dark Utilities**: Not edited
 - **Deep Resonance**: Not edited
 - **Dirt2Path**: [Edited](./config/dirt2path.cfg)
+- **ElecCore**: Not edited
+- **EnderCore**: Not edited
+- **EnderIO**: Not edited
+- **Ender Storage**: Not edited
+- **Engineer's Doors**: Not edited
+- **Engineers Workshop**: Not edited
 
 ### Configs *(Plugins)*
 - **CatClearLag**: Not edited
