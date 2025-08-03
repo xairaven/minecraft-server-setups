@@ -129,6 +129,11 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 - **FTB Guides**: Not edited
 - **FTB Lib**: [Edited](./config/ftblib.cfg)
 - **FTB Utilities**: [Edited](./config/ftbutilities.cfg)
+- **Gendustry**: Not edited
+- **GraviSuite**: Not edited
+- **Guide-API**: Not edited
+- **Harvest Craft**: Not edited
+- **Industrial Craft 2**: [Edited](./config/IC2.ini)
   
 </details>
 
