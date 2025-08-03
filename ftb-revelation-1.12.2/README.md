@@ -178,6 +178,20 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 - **Simple Void World**: Not edited
 - **SimplyJetPacks**: Not edited
 - **Soul Shards Respawn**: Not edited
+- **StorageDrawers**: Not edited
+- **StorageDrawers Extra**: Not edited
+- **Tinkers Construct**: Not edited
+- **Reborn Storage**: Not edited
+- **TeslaCoreLib**: Not edited
+- **ThaumCraft**: Not edited
+- **Thaumic Energistics**: Not edited
+- **TheOneProbe**: Not edited
+- **TopAddons**: Not edited
+- **TorchMaster**: Not edited
+- **The Twilight Forest**: Not edited
+- **UniDict**: Not edited
+- **ValkyrieLib**: Not edited
+- **Waystones**: [Edited](./config/Waystones.cfg)
   
 </details>
 
