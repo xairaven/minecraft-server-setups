@@ -67,3 +67,4 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 
 ### Other Important Files
 - [Server Properties](./server.properties)
+- [Start Script](./start.sh)
