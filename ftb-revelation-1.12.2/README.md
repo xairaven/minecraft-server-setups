@@ -93,6 +93,17 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 - **Brandon3055** *(Draconic Evolution)*: Not edited
 - **BuildCraft**: Not edited
 - **Chest Transporter**: [Edited](./config/chesttransporter.cfg)
+- **Chisel**: Not edited
+- **Chisel and Bits**: Not edited
+- **CodeChickenLib**: Not edited
+- **COFH**: Not edited
+- **Compact Solars**: Not edited
+- **Construct's Armory**: Not edited
+- **Cooking for Blockheads**: Not edited
+- **Dank Null**: Not edited
+- **Dark Utilities**: Not edited
+- **Deep Resonance**: Not edited
+- **Dirt2Path**: [Edited](./config/dirt2path.cfg)
 
 ### Configs *(Plugins)*
 - **CatClearLag**: Not edited
