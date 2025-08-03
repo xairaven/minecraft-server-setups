@@ -192,6 +192,10 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 - **UniDict**: Not edited
 - **ValkyrieLib**: Not edited
 - **Waystones**: [Edited](./config/Waystones.cfg)
+- **XNet**: Not edited
+- **XReliquary**: Not edited
+- **Xtones**: Not edited
+- **YABBA**: Not edited
   
 </details>
 
