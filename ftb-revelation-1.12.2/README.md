@@ -33,6 +33,7 @@ This folder contains configuration files, instructions, plugin lists, and script
 | --------- | ----------- |
 | [Aqua Acrobatics](https://www.curseforge.com/minecraft/mc-mods/aqua-acrobatics) | 1.15.4 |
 | [Extra Cells 2](https://www.curseforge.com/minecraft/mc-mods/extra-cells-2-samlam140330s-fork) | 2.6.7 |
+| [Smooth Font](https://www.curseforge.com/minecraft/mc-mods/smooth-font) | 2.1.4 |
 | [Thaumic Bases](https://www.curseforge.com/minecraft/mc-mods/thaumic-bases-unofficial) | 3.6.020.1 |
 | [Thaumic Energistics](https://www.curseforge.com/minecraft/mc-mods/thaumic-energistics) | 2.2.4 |
 
@@ -62,6 +63,19 @@ This folder contains configuration files, instructions, plugin lists, and script
 - [xNICEx](https://www.curseforge.com/minecraft/mc-mods/xnicex)
   
 </details>
+
+### Plugins
+
+Below is a list of plugins included in this setup. Be sure to check for compatibility if you update the server version.
+
+| **Title** | **Version** | **Description** |
+| --------- | ----------- | --------------- |
+| [CatClearLag](https://ore.spongepowered.org/TimeTheCat/CatClearLag) | 0.9.5.1 | *"A plugin to assist in removing lag from your server."* |
+| [LuckPerms](https://ore.spongepowered.org/Luck/LuckPerms) | 5.3.98 | *"A permissions plugin for Minecraft servers."* |
+| [Nucleus](https://ore.spongepowered.org/Nucleus/Nucleus) | 2.4.2 | *"Essentials-like plugin"* |
+| [SkinChanger](https://ore.spongepowered.org/TeKGameR/SkinChanger) | 1.0 | *"This plugin allows your players to change their skins by command."* |
+| [SkinsRestorer](https://ore.spongepowered.org/SRTeam/SkinsRestorer) | 14.2.0 | *"Ability to restore/change skins on servers!"* |
+| [TabChanger](https://ore.spongepowered.org/EliasLucky/TabChanger) | 0.2.3 | *"Customizes and changes default minecraft tab"* |
 
 ### Scripts
 
