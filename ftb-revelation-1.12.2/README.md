@@ -112,6 +112,11 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 - **Ender Storage**: Not edited
 - **Engineer's Doors**: Not edited
 - **Engineers Workshop**: Not edited
+- **Exchangers**: Not edited
+- **Extra Utils 2**: Not edited
+- **Extreme Reactors**: Not edited
+- **FastWorkbench**: Not edited
+- **Flux Networks**: [Edited](./config/flux_networks.cfg)
 
 ### Configs *(Plugins)*
 - **CatClearLag**: Not edited
