@@ -128,6 +128,7 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 - **FTB Backups**: [Edited](./config/ftbbackups.cfg)
 - **FTB Guides**: Not edited
 - **FTB Lib**: [Edited](./config/ftblib.cfg)
+- **FTB Utilities**: [Edited](./config/ftbutilities.cfg)
   
 </details>
 
