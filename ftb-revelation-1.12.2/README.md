@@ -70,6 +70,7 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 ### Other Important Files
 - [Server Properties](./server.properties)
 - [Start Script](./start.sh)
+- [Sponge Configs](./sponge/)
 
 ### Configs
 
@@ -161,6 +162,22 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 - **OpenModsLibCore**: Not edited
 - **Patchouli**: Not edited
 - **Placebo**: [Edited](./config/placebo.cfg)
+- **Platforms**: Not edited
+- **ProjectRed**: [Edited](./config/ProjectRed.cfg)
+- **ProjectRedRelocation**: Not edited
+- **Quark**: Not edited
+- **Quick Leaf Decay**: Not edited
+- **RailCraft**: Not edited
+- **RandomPatches**: Not edited
+- **RangedPumps**: Not edited
+- **RefinedStorage**: Not edited
+- **RFTools**: Not edited
+- **Rustic**: Not edited
+- **Shadowfacts**: Not edited
+- **ShetiPhianCore**: Not edited
+- **Simple Void World**: Not edited
+- **SimplyJetPacks**: Not edited
+- **Soul Shards Respawn**: Not edited
   
 </details>
 
