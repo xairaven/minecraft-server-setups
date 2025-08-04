@@ -219,5 +219,8 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 - **CatClearLag**: Not edited
 - **LuckPerms**: Not edited
 - **Nucleus**: [Edited](./plugins/nucleus/)
+- **TabChanger**: [Edited](./plugins/tabchanger/config.conf)
+- **S**: Not edited
+- **S**: Not edited
   
 </details>
