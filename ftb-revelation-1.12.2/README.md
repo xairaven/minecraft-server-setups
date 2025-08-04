@@ -218,5 +218,6 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
   
 - **CatClearLag**: Not edited
 - **LuckPerms**: Not edited
+- **Nucleus**: [Edited](./plugins/nucleus/)
   
 </details>
