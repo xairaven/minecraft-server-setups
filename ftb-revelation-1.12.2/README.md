@@ -74,7 +74,6 @@ Below is a list of plugins included in this setup. Be sure to check for compatib
 | [LuckPerms](https://ore.spongepowered.org/Luck/LuckPerms) | 5.3.98 | *"A permissions plugin for Minecraft servers."* |
 | [Nucleus](https://ore.spongepowered.org/Nucleus/Nucleus) | 2.4.2 | *"Essentials-like plugin"* |
 | [SkinChanger](https://ore.spongepowered.org/TeKGameR/SkinChanger) | 1.0 | *"This plugin allows your players to change their skins by command."* |
-| [SkinsRestorer](https://ore.spongepowered.org/SRTeam/SkinsRestorer) | 14.2.0 | *"Ability to restore/change skins on servers!"* |
 | [TabChanger](https://ore.spongepowered.org/EliasLucky/TabChanger) | 0.2.3 | *"Customizes and changes default minecraft tab"* |
 
 ### Scripts
