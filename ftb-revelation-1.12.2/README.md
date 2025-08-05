@@ -83,7 +83,9 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 ### Other Important Files
 - [Server Properties](./server.properties)
 - [Start Script](./start.sh)
+- [Original Start Script](./old_start.sh)
 - [Sponge Configs](./sponge/)
+- [Wipe World and User Data](./WIPE.sh)
 
 ### Configs
 
@@ -216,8 +218,17 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 <summary><i>For Plugins</i></summary>
   
 - **CatClearLag**: [Edited](./plugins/catclearlag/)
-- **LuckPerms**: Not edited
+- **LuckPerms**: [Edited](./plugins/LuckPerms.md)
 - **Nucleus**: [Edited](./plugins/nucleus/)
 - **TabChanger**: [Edited](./plugins/tabchanger/config.conf)
   
 </details>
+
+### Notes
+1. Rename `spongeforge-1.12.2-2838-7.4.7.jar` to `aaa_spongeforge-1.12.2-2838-7.4.7.jar`. Read [this](https://docs.spongepowered.org/7.4.0/en/server/spongineer/incompatible.html)
+2. Delete configs from deleted mods
+3. `CatClearLag` has newer version on CurseForge
+4. Whitelist handled without plugins
+5. `SkinRestorer` plugin is not used because of corrupted jar files lol
+6. Sleep plugin is not needed because of `Morpheus` mod
+7. Server icon must be 64x64 `.png` with name `server-icon.png` 
