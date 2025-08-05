@@ -90,7 +90,7 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 <details>
 <summary><i>For Mods</i></summary>
   
-- **ActuallyAdditions**: Not edited
+- **ActuallyAdditions**: [Edited](./config/actuallyadditions.cfg)
 - **AdvancedSolarPanels**: Not edited
 - **AdvancedSolarPanels Recipes**: [Edited](./config/advanced_solar_panels_MTRecipes.cfg)
 - **AE2 Wireless Terminals**: Not edited
