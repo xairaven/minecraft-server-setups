@@ -22,8 +22,10 @@ readonly heap_size='5632M'
 # NOTE: -Xms and -Xmx are set separately
 # These are mostly "Aikar flags"
 # taken from: https://mcflags.emc.gs/
+
+# Deleted Flag: -Dio.netty.leakDetection.level=advanced
+
 readonly jvm_flags=(
-  -Dio.netty.leakDetection.level=advanced
   -Dfml.queryResult=confirm
   -Dlog4j.configurationFile=.patches/log4j2_112-116.xml
 
