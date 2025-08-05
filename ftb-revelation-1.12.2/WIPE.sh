@@ -1,5 +1,7 @@
 #!/bin/bash
 
+rm -r config/sponge/worlds
+
 rm ./crafttweaker.log
 rm -r ./logs/*
 
