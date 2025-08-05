@@ -161,6 +161,15 @@ var fullTome = <akashictome:tome> .withTag(
 					"akashictome:definedMod": "cookingforblockheads"
 				},
 				Damage: 1 as short
+			},
+
+			xnet: {
+				id: "xnet:xnet_manual",
+				Count: 1 as byte,
+				tag: {
+					"akashictome:definedMod": "xnet"
+				},
+				Damage: 0 as short
 			}
 		}
 	}
