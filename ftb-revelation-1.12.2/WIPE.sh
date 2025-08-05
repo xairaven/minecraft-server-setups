@@ -5,10 +5,7 @@ rm -r config/sponge/worlds
 rm ./crafttweaker.log
 rm -r ./logs/*
 
-rm ./luckperms/luckperms-h2.mv.db
-
-rm ./nucleus/usercache.json
-rm -r ./nucleus/userdata
+rm -r ./nucleus
 
 rm -r ./snapshots-server
 rm -r ./world
