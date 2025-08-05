@@ -52,6 +52,7 @@ This folder contains configuration files, instructions, plugin lists, and script
 - [LetsEncryptCraft](https://www.curseforge.com/minecraft/mc-mods/letsencryptcraft)
 - [Long Fall Boot](https://www.curseforge.com/minecraft/mc-mods/long-fall-boots)
 - [MineTogether](https://www.curseforge.com/minecraft/mc-mods/creeperhost-minetogether)
+- [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)
 - [Plethora Peripherals](https://www.curseforge.com/minecraft/mc-mods/plethora-peripherals)
 - [Snad](https://www.curseforge.com/minecraft/mc-mods/snad)
 - [Steve's Carts Reborn](https://www.curseforge.com/minecraft/mc-mods/steves-carts-reborn)
@@ -74,6 +75,7 @@ Below is a list of plugins included in this setup. Be sure to check for compatib
 | [LuckPerms](https://ore.spongepowered.org/Luck/LuckPerms) | 5.3.98 | *"A permissions plugin for Minecraft servers."* |
 | [Nucleus](https://ore.spongepowered.org/Nucleus/Nucleus) | 2.4.2 | *"Essentials-like plugin"* |
 | [SkinChanger](https://ore.spongepowered.org/TeKGameR/SkinChanger) | 1.0 | *"This plugin allows your players to change their skins by command."* |
+| [SleepVote](https://ore.spongepowered.org/Icohedron/Sleep-Vote) | 1.1.0-S7.0 | *"Vote to skip the night by sleeping in a bed!"* |
 | [TabChanger](https://ore.spongepowered.org/EliasLucky/TabChanger) | 0.2.3 | *"Customizes and changes default minecraft tab"* |
 
 ### Scripts
@@ -164,7 +166,6 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 - **MagicBees**: Not edited
 - **McJtyLib**: Not edited
 - **MicroBlocks**: Not edited
-- **Morpheus**: [Edited](./config/morpheus.cfg)
 - **Morph-o-Tool**: Not edited
 - **MrTJPCore**: Not edited
 - **MultiPart**: Not edited
@@ -220,6 +221,7 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 - **CatClearLag**: [Edited](./plugins/catclearlag/)
 - **LuckPerms**: [Edited](./plugins/LuckPerms.md)
 - **Nucleus**: [Edited](./plugins/nucleus/)
+- **SleepVote**: [Edited](./plugins/sleepvote/configuration.properties)
 - **TabChanger**: [Edited](./plugins/tabchanger/config.conf)
   
 </details>
@@ -229,6 +231,5 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 2. Delete configs from deleted mods
 3. `CatClearLag` has newer version on CurseForge
 4. Whitelist handled without plugins
-5. `SkinRestorer` plugin is not used because of corrupted jar files lol
-6. Sleep plugin is not needed because of `Morpheus` mod
-7. Server icon must be 64x64 `.png` with name `server-icon.png` 
+5. `SkinRestorer` plugin is not used because of corrupted jar file lol
+6. Server icon must be 64x64 `.png` with name `server-icon.png` 
