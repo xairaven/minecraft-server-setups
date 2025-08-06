@@ -232,4 +232,5 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 3. `CatClearLag` has newer version on CurseForge
 4. Whitelist handled without plugins
 5. `SkinRestorer` plugin is not used because of corrupted jar file lol
-6. Server icon must be 64x64 `.png` with name `server-icon.png` 
+6. Server icon must be 64x64 `.png` with name `server-icon.png`
+7. Used chunk pregeneration mod ["Chunk-Pregenerator"](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator). [Documentation](https://github.com/TinyModularThings/Chunk-Pregenerator-Issue-Tracker/wiki/Commands).
