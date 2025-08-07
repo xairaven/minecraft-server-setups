@@ -36,6 +36,7 @@ This folder contains configuration files, instructions, plugin lists, and script
 | [Smooth Font](https://www.curseforge.com/minecraft/mc-mods/smooth-font) | 2.1.4 |
 | [Thaumic Bases](https://www.curseforge.com/minecraft/mc-mods/thaumic-bases-unofficial) | 3.6.020.1 |
 | [Thaumic Energistics](https://www.curseforge.com/minecraft/mc-mods/thaumic-energistics) | 2.2.4 |
+| [UniDict](https://www.curseforge.com/minecraft/mc-mods/unidict) | 3.0.8 |
 
 </details>
 
@@ -62,6 +63,9 @@ This folder contains configuration files, instructions, plugin lists, and script
 - [Translocators](https://www.curseforge.com/minecraft/mc-mods/translocators)
 - [Woot](https://www.curseforge.com/minecraft/mc-mods/woot)
 - [xNICEx](https://www.curseforge.com/minecraft/mc-mods/xnicex)
+
+Wrong version:
+- [UniDict](https://www.curseforge.com/minecraft/mc-mods/unidict), 3.0.10
   
 </details>
 
@@ -234,3 +238,4 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 5. `SkinRestorer` plugin is not used because of corrupted jar file lol
 6. Server icon must be 64x64 `.png` with name `server-icon.png`
 7. Used chunk pregeneration mod ["Chunk-Pregenerator"](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator). [Documentation](https://github.com/TinyModularThings/Chunk-Pregenerator-Issue-Tracker/wiki/Commands).
+8. Do not update `UniDict`. Right version - `3.0.8`. Version `3.0.10` breaks crafts because of post-integration.
