@@ -31,6 +31,7 @@ This folder contains configuration files, instructions, plugin lists, and script
   
 | **Title** | **Version** |
 | --------- | ----------- |
+| [AE2 Stuff](https://www.curseforge.com/minecraft/mc-mods/ae2-stuff) | 0.7.0.4 |
 | [Aqua Acrobatics](https://www.curseforge.com/minecraft/mc-mods/aqua-acrobatics) | 1.15.4 |
 | [Extra Cells 2](https://www.curseforge.com/minecraft/mc-mods/extra-cells-2-samlam140330s-fork) | 2.6.7 |
 | [Smooth Font](https://www.curseforge.com/minecraft/mc-mods/smooth-font) | 2.1.4 |
@@ -101,6 +102,7 @@ Fixed files `00` and `02` according to mods removal - *[\*link\*](./scripts/)*
 - **ActuallyAdditions**: [Edited](./config/actuallyadditions.cfg)
 - **AdvancedSolarPanels**: Not edited
 - **AdvancedSolarPanels Recipes**: [Edited](./config/advanced_solar_panels_MTRecipes.cfg)
+- **AE2 Stuff**: Not edited
 - **AE2 Wireless Terminals**: Not edited
 - **Akashic Tome**: Not edited
 - **Apple Skin**: Not edited
