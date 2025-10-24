@@ -43,6 +43,7 @@ Below is a list of plugins included in this setup. Be sure to check for compatib
 | [Sleep Most](https://www.spigotmc.org/resources/sleep-most-1-8-1-21-x-the-most-advanced-sleep-plugin-available-percentage-animations.60623/) | 5.6.0 | *Control the amount of percentage of sleeping players required to make it day* |
 | [TAB](https://modrinth.com/plugin/tab-was-taken) | 5.3.2 | *Plugin for TAB.* |
 | [Vault](https://www.spigotmc.org/resources/vault.34315/) | 1.7.3 | *A permissions, chat, and economy API* |
+| [ViaVersion](https://modrinth.com/plugin/viaversion) | 5.5.1 | *Allow newer Java Edition clients to connect to older servers.* |
 
 *You may add or remove plugins as desired, but make sure each plugin is compatible with the current Paper version.*
 
