@@ -6,6 +6,7 @@ This folder contains configuration files, plugin lists, and scripts for setting 
 - **Type**: Vanilla
 - **Core**: Vanilla
 - **Version**: 1.21.8
+- **Start**: 24/10/2025
 
 ### Server Information
 - **Hosting**: Digital Ocean 
