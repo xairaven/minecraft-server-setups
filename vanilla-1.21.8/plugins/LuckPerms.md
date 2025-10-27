@@ -117,5 +117,6 @@
 | meta.default.true              | true      |
 | minecraft.command              | false     |
 | minecraft.command.trigger      | true      |
+| simplewhitelist.command        | false     |
 | sleepmost.notify               | false     |
 | weight.1                       | true      |
