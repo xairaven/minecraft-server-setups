@@ -1,16 +1,14 @@
-### Commands
+## Placeholder API
 
-**Player Module**. Needed for coordinates in TAB.
-```
-/papi ecloud download Player
-```
+| **Module Name**       | **DB Name**            | **Purpose**                       |
+| --------------------- | ---------------------- | --------------------------------- |
+| LuckPerms             | `LuckPerms`            | Prefixes, etc.                    |
+| Player                | `Player`               | TAB Coordinates                   |
+| Server                | `Server`               | TAB Server Online                 |
+| Scoreboard Objectives | `ScoreboardObjectives` | TAB Datapack achievements counter |
 
-**Server Module**. Needed for `%server_online%` in TAB.
-```
-/papi ecloud download Server
-```
+### Command:
 
-**Scoreboard Objectives**. Needed for `%objective_score_{bac_advancements}%` in TAB.
 ```
-/papi ecloud download ScoreboardObjectives
+/papi ecloud download *DB Name*
 ```
