@@ -49,7 +49,10 @@ onLogin: {}
 # Note: if your server crashes, these commands won't be run, so don't rely on them to undo
 # 'onLogin' commands that would be dangerous for non-logged in players to have!
 onLogout: {}
-onRegister: {}
+onRegister: 
+  welcome:
+    command: 'info'
+    executor: PLAYER
 onSessionLogin: {}
 # Commands to run whenever a player is unregistered (by himself, or by an admin)
 onUnregister: {}

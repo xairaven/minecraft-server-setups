@@ -106,6 +106,7 @@
 | essentials.chat.receive.shout  | true      |
 | essentials.chat.shout          | true      |
 | essentials.home                | true      |
+| essentials.info                | true      |
 | essentials.msg                 | true      |
 | essentials.playtime            | true      |
 | essentials.sethome             | true      |
