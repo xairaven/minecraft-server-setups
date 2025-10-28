@@ -14,7 +14,7 @@ Below is an overview of the current setups:
 
 - [**Paper 1.21.8**](./vanilla-1.21.8/) <br>
   Configuration files and plugins for the Paper 1.21.3 server setup.<br>
-  [*KPI-Craft*](t.me/kpicraft), 24.10.2025 - ...
+  [*KPI-Craft*](https://t.me/kpicraft), 24.10.2025 - ...
 
 - [**FTB Revelation 1.12.2**](./ftb-revelation-1.12.2/) <br>
   Configuration and mod list for the FTB Revelations modpack on Minecraft 1.12.2.<br>
