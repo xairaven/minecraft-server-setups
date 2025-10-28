@@ -10,12 +10,15 @@ Below is an overview of the current setups:
 
 - [**Paper 1.21.3**](./vanilla-1.21.3/) <br>
   Configuration files and plugins for the Paper 1.21.3 server setup.
+  Local server, November 2024 - January 2025
 
 - [**Paper 1.21.8**](./vanilla-1.21.8/) <br>
   Configuration files and plugins for the Paper 1.21.3 server setup.
+  [*KPI-Craft*](t.me/kpicraft), 24.10.2025 - ...
 
 - [**FTB Revelation 1.12.2**](./ftb-revelation-1.12.2/) <br>
   Configuration and mod list for the FTB Revelations modpack on Minecraft 1.12.2.
+  Local server, August 2025
 
 - *Additional directories may be added as new servers are configured.*
 
