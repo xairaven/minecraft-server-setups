@@ -32,7 +32,6 @@
 | authme.*                             | true      |
 | backuper.*                           | true      |
 | chunky.*                             | true      |
-| coreprotect.*                        | true      |
 | essentials.*                         | true      |
 | luckperms.*                          | true      |
 | maintenance.*                        | true      |
@@ -63,6 +62,7 @@
 |--------------------------------|-----------|
 | group.default                  | true      |
 | weight.99                      | true      |
+| coreprotect.*                  | true      |
 | essentials.ban                 | true      |
 | essentials.banip               | true      |
 | essentials.getpos              | true      |
