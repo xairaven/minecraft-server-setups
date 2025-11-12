@@ -80,7 +80,7 @@
 
 | **Permission**                 | **Value** |
 |--------------------------------|-----------|
-| skinsrestorer.command.*        | false     |
+| skinsrestorer.command.*        | true      |
 | authme.*                       | false     |
 | backuper.*                     | false     |
 | chunky.*                       | false     |
