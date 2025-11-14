@@ -13,7 +13,7 @@ Below is an overview of the current setups:
   Local server, November 2024 - January 2025
 
 - [**Paper 1.21.10**](./vanilla-1.21.10/) <br>
-  Configuration files and plugins for the Paper 1.21.3 server setup.<br>
+  Configuration files and plugins for the Paper 1.21.10 server setup.<br>
   [*KPI-Craft*](https://t.me/kpicraft), 24.10.2025 - ...
 
 - [**FTB Revelation 1.12.2**](./ftb-revelation-1.12.2/) <br>

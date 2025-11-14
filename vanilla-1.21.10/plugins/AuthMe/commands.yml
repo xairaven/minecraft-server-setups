@@ -42,7 +42,10 @@
 #     ifNumberOfAccountsAtLeast: 5
 # Commands to run for players logging in whose 'last login date' was empty
 onFirstLogin: {}
-onJoin: {}
+onJoin:
+  updateachievements:
+    command: 'function blazeandcave:config/update_score'
+    executor: CONSOLE
 onLogin: {}
 # These commands are called whenever a logged in player uses /logout or quits.
 # The commands are not run if a player that was not logged in quits the server.
