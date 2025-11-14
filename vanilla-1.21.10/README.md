@@ -1,11 +1,11 @@
-# Minecraft Server - Paper 1.21.8
+# Minecraft Server - Paper 1.21.10
 
-This folder contains configuration files, plugin lists, and scripts for setting up a **Minecraft Paper 1.21.8** server.
+This folder contains configuration files, plugin lists, and scripts for setting up a **Minecraft Paper 1.21.10** server.
 
 ### Game Information
 - **Type**: Vanilla
 - **Core**: Vanilla
-- **Version**: 1.21.8
+- **Version**: 1.21.10
 - **Start**: 24/10/2025
 
 ### Server Information
@@ -34,13 +34,13 @@ Below is a list of plugins included in this setup. Be sure to check for compatib
 | [EssentialsX](https://essentialsx.net/downloads.html) | 2.21.2 | *Provides essential commands and tools for players and admins* |
 | [EssentialsXChat](https://essentialsx.net/downloads.html) | 2.21.2 | *Chat formatting, local chat* |
 | [EssentialsXSpawn](https://essentialsx.net/downloads.html) | 2.21.2 | *Spawnpoint control, per-player spawns* |
-| [LuckPerms](https://luckperms.net/download) | 5.5.17 | *A permissions plugin for Minecraft servers.* |
+| [LuckPerms](https://luckperms.net/download) | 5.5.20 | *A permissions plugin for Minecraft servers.* |
 | [Maintenance](https://hangar.papermc.io/kennytv/Maintenance) | 4.3.0 | *Maintenance plugin.* |
 | [MiniMOTD](https://hangar.papermc.io/jmp/MiniMOTD) | 2.2.1 | *Minecraft plugin to set the server list MOTD* |
-| [PlaceholderAPI](https://hangar.papermc.io/HelpChat/PlaceholderAPI) | 2.11.6 | *A resource that allows information from your favorite plugins be shown practically anywhere!* |
+| [PlaceholderAPI](https://hangar.papermc.io/HelpChat/PlaceholderAPI) | 2.11.7 | *A resource that allows information from your favorite plugins be shown practically anywhere!* |
 | [SimpleWhitelist](https://modrinth.com/plugin/simplewhitelist) | 2.0.0 | *Simple whitelist system for your offline-mode server* |
-| [SkinsRestorer](https://hangar.papermc.io/SRTeam/SkinsRestorer) | 15.8.2 | *Ability to restore/change skins on servers! (Offline and Online Mode)* |
-| [Sleep Most](https://www.spigotmc.org/resources/sleep-most-1-8-1-21-x-the-most-advanced-sleep-plugin-available-percentage-animations.60623/) | 5.6.0 | *Control the amount of percentage of sleeping players required to make it day* |
+| [SkinsRestorer](https://hangar.papermc.io/SRTeam/SkinsRestorer) | 15.9.0 | *Ability to restore/change skins on servers! (Offline and Online Mode)* |
+| [Sleep Most](https://www.spigotmc.org/resources/sleep-most-1-8-1-21-x-the-most-advanced-sleep-plugin-available-percentage-animations.60623/) | 5.6.1 | *Control the amount of percentage of sleeping players required to make it day* |
 | [TAB](https://modrinth.com/plugin/tab-was-taken) | 5.3.2 | *Plugin for TAB.* |
 | [Vault](https://www.spigotmc.org/resources/vault.34315/) | 1.7.3 | *A permissions, chat, and economy API* |
 | [ViaVersion](https://modrinth.com/plugin/viaversion) | 5.5.1 | *Allow newer Java Edition clients to connect to older servers.* |
@@ -51,7 +51,7 @@ Below is a list of plugins included in this setup. Be sure to check for compatib
 
 | **Title** | **Version** | **Description** |
 | --------- | ----------- | --------------- |
-| [BlazeandCave's Advancements Pack](https://www.curseforge.com/minecraft/customization/blazeandcaves-advancements-pack) | 1.19.1 | *Advancement Datapack.* |
+| [BlazeandCave's Advancements Pack](https://www.curseforge.com/minecraft/customization/blazeandcaves-advancements-pack) | 1.20.1 | *Advancement Datapack.* |
 | [Never Too Expensive](https://www.planetminecraft.com/data-pack/never-to-expensive/download/file/18017652/) | 1.0.1 | *Remove repair cost from all your items.* |
 | [Vanilla Tweaks - Anti Enderman Grief](https://vanillatweaks.net/picker/datapacks/) | 1.1.14 | *Prevents endermen from picking up blocks.* |
 
