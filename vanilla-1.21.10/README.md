@@ -52,6 +52,7 @@ Below is a list of plugins included in this setup. Be sure to check for compatib
 | **Title** | **Version** | **Description** |
 | --------- | ----------- | --------------- |
 | [BlazeandCave's Advancements Pack](https://www.curseforge.com/minecraft/customization/blazeandcaves-advancements-pack) | 1.20.1 | *Advancement Datapack.* |
+| [Lingering Arrows](https://modrinth.com/datapack/lingering-arrows) | 1.0 | *Tipped arrows create a area effect cloud wherever they land, giving them and their crafting recipe a purpose.* |
 | [Never Too Expensive](https://www.planetminecraft.com/data-pack/never-to-expensive/download/file/18017652/) | 1.0.1 | *Remove repair cost from all your items.* |
 | [Vanilla Tweaks - Anti Enderman Grief](https://vanillatweaks.net/picker/datapacks/) | 1.1.14 | *Prevents endermen from picking up blocks.* |
 
