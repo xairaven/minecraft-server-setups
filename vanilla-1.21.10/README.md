@@ -30,7 +30,7 @@ Below is a list of plugins included in this setup. Be sure to check for compatib
 | [AuthMe ReReloaded](https://github.com/HaHaWTH/AuthMeReReloaded/releases/tag/b53) | 5.7.0 | *"A fork of the best authentication plugin"* |
 | [Backuper](https://hangar.papermc.io/Collagen/Backuper) | 3.4.5 | *Automatic backup plugin with good customization* |
 | [Chunky](https://hangar.papermc.io/pop4959/Chunky) | 1.4.40 | *Pre-generates chunks, quickly and efficiently* |
-| [CoreProtect](https://hangar.papermc.io/CORE/CoreProtect) | 23.0 | *Fast, efficient, data logging and anti-griefing tool* |
+| [CoreProtect](https://hangar.papermc.io/CORE/CoreProtect) | 23.1 ([Custom - 49c0f16](https://github.com/PlayPro/CoreProtect/commit/49c0f16934d4d05ee0870238b9109acce918e5fb)) | *Fast, efficient, data logging and anti-griefing tool* |
 | [EssentialsX](https://essentialsx.net/downloads.html) | 2.21.2 | *Provides essential commands and tools for players and admins* |
 | [EssentialsXChat](https://essentialsx.net/downloads.html) | 2.21.2 | *Chat formatting, local chat* |
 | [EssentialsXSpawn](https://essentialsx.net/downloads.html) | 2.21.2 | *Spawnpoint control, per-player spawns* |
