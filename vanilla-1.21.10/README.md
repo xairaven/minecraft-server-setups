@@ -52,8 +52,15 @@ Below is a list of plugins included in this setup. Be sure to check for compatib
 | **Title** | **Version** | **Description** |
 | --------- | ----------- | --------------- |
 | [BlazeandCave's Advancements Pack](https://www.curseforge.com/minecraft/customization/blazeandcaves-advancements-pack) | 1.20.1 | *Advancement Datapack.* |
+| [Cauldron Concrete](https://vanillatweaks.net/picker/datapacks/) | 3.0.7 | *Drop concrete powder into a water cauldron to instantly harden all of it.* |
+| [Cauldron Mud](https://vanillatweaks.net/picker/datapacks/) | 1.0.7 | *Drop dirt into a water cauldron to instantly convert all of it to mud.* |
+| [Chunk Loaders](https://vanillatweaks.net/picker/datapacks/) | 1.0.15 | *Drop a nether star above a lodestone to make a chunk loader (AKA loadstone) which keeps the chunk it's in loaded until it is broken.* |
+| [Fast Leaf Decay](https://vanillatweaks.net/picker/datapacks/) | 2.0.19 | *Leaves decay much faster when trees are mined in survival mode.* |
 | [Lingering Arrows](https://modrinth.com/datapack/lingering-arrows) | 1.0 | *Tipped arrows create a area effect cloud wherever they land, giving them and their crafting recipe a purpose.* |
+| [More Effective Tools](https://vanillatweaks.net/picker/datapacks/) | 1.0.8 | *Effective tools for some blocks.* |
 | [Never Too Expensive](https://www.planetminecraft.com/data-pack/never-to-expensive/download/file/18017652/) | 1.0.1 | *Remove repair cost from all your items.* |
+| [Painting Picker](https://vanillatweaks.net/picker/datapacks/) | 1.1.1 | *Use a stonecutter to choose a painting's variant.* |
+| [Unlock All Recipes](https://vanillatweaks.net/picker/datapacks/) | 2.0.15 | *Automatically unlock all recipes as soon as you start playing.* |
 | [Vanilla Tweaks - Anti Enderman Grief](https://vanillatweaks.net/picker/datapacks/) | 1.1.14 | *Prevents endermen from picking up blocks.* |
 
 ---
